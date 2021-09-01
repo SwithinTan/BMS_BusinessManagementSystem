@@ -1,17 +1,13 @@
 # 订单管理系统 smbms 狂神说Java
 
-#### 介绍
- 狂神说Java  Javaweb练习项目 JSP 订单管理系统
+#### INTRODUCTION
+An enterprise business management system based on JavaWeb.
 
 
 
-#### 安装教程
-
-部署项目时可以参考以下文章
+#### CONFIGURATION
 
 https://blog.csdn.net/zhuralll112/article/details/86238882
-
-或者看着截图设置。
 ![打开项目设置](https://images.gitee.com/uploads/images/2021/0601/092634_c1bf248e_5396824.png "1.png")
 ![确保jdk版本](https://images.gitee.com/uploads/images/2021/0601/092653_e5354d63_5396824.png "2.png")
 ![添加Web模块](https://images.gitee.com/uploads/images/2021/0601/092702_ce3c6ba5_5396824.png "3.png")
